@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+.team, .games {
+    margin: 30px auto;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.photo {
+    margin: 20px 0;
+}
+
+.photo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.channel a {
+    color: #4CAF50;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.games ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.games ul li
